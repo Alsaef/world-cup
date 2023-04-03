@@ -129,8 +129,8 @@ color: #FFFFFF;
         width: 100%;
     }
     .player-hero-background{
-     margin-left: 0;
-    margin-right: 0;
+     margin-left: 10px;
+    margin-right: 10px;
     }
     .player-hero{
         flex-direction: column;
