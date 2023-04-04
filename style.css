@@ -7,13 +7,10 @@ main{
     align-items: center;
     flex-direction: column;
 }
-.continner{
-    width: 1321px;
-}
 .player-hero-background{
     background-color: black;
-    margin-left: 140px;
-    margin-right: 139px;
+    margin-left: 40px;
+    margin-right: 39px;
     border-radius: 30px;
     margin-top: 50px;
 
@@ -58,8 +55,7 @@ color: #FFFFFF;
     display: flex;
     margin-top: 130px;
     gap: 20px;
-    margin-right: 140px;
-    margin-left: 140px;
+    margin-right: 100px;
 }
 .watch-blog{
     background-color: black;
@@ -101,7 +97,6 @@ color: #FFFFFF;
 
 }
 .round {
-    width: 312px;
     border: 1px grey solid;
     border-radius: 10px;
 }
@@ -129,7 +124,7 @@ color: #FFFFFF;
 }
 /* mobile */
 @media only screen and (max-width:688px) {
-    .continner{
+    body{
         width: 100%;
     }
     .player-hero-background{
@@ -147,8 +142,6 @@ color: #FFFFFF;
     }
     .player img{
         margin-right: 0;
-        width: 233px;
-        height: 245px;
         
      } 
      .match-round{
