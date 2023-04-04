@@ -125,7 +125,7 @@ color: #FFFFFF;
 }
 /* mobile */
 @media only screen and (max-width:688px) {
-    .continner{
+    body{
         width: 100%;
     }
     .player-hero-background{
