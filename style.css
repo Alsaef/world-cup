@@ -97,6 +97,7 @@ color: #FFFFFF;
 
 }
 .round {
+    width: 312px;
     border: 1px grey solid;
     border-radius: 10px;
 }
@@ -124,7 +125,7 @@ color: #FFFFFF;
 }
 /* mobile */
 @media only screen and (max-width:688px) {
-    body{
+    .continner{
         width: 100%;
     }
     .player-hero-background{
@@ -142,6 +143,8 @@ color: #FFFFFF;
     }
     .player img{
         margin-right: 0;
+        width: 233px;
+        height: 245px;
         
      } 
      .match-round{
