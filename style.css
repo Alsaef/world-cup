@@ -130,7 +130,7 @@ color: #FFFFFF;
     }
     .player-hero-background{
      margin-left: 0;
-    margin-right: 10px;
+    margin-right: 0;
     }
     .player-hero{
         flex-direction: column;
